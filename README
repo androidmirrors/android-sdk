@@ -1,1 +1,5 @@
-These are the Android SDK source files downloaded by Android Studio.
+These are the Android SDK source files downloaded by Android Studio,
+augmented with a few packages selectively copied from the Android
+source repositories hosted at https://android.googlesource.com. The
+supplementing is necessary because some classes in the `android.jar`
+are not present in the source files downloaded by `sdkmanager`.
