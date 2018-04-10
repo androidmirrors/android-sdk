@@ -1,0 +1,12 @@
+{
+    "projects": {
+        "/": {
+            "groupId": "com.google.android",
+            "artifactId": "android",
+            "version": "25",
+            "sourceDirectories": [
+                "sdk"
+            ]
+        }
+    }
+}
